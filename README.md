@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/2b7Gct3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with screentogif  
@@ -35,7 +35,7 @@ GIF created with screentogif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Very nice refresh to javascript and CSS.
 
 ## License
 
